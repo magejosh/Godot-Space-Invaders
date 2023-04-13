@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/Mothership.wav-6358daf36f1da55092ccf0a13a25ee4a.sample"
+type="AudioStreamWAV"
+uid="uid://c5f6ktu0wrtjb"
+path="res://.godot/imported/Mothership.wav-6358daf36f1da55092ccf0a13a25ee4a.sample"
 
 [deps]
 
 source_file="res://Sounds/Mothership.wav"
-dest_files=[ "res://.import/Mothership.wav-6358daf36f1da55092ccf0a13a25ee4a.sample" ]
+dest_files=["res://.godot/imported/Mothership.wav-6358daf36f1da55092ccf0a13a25ee4a.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=true
 edit/normalize=true
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0

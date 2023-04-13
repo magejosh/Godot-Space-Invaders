@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/fastinvader2.wav-885302bad198f61ec8c138ed7269a382.sample"
+type="AudioStreamWAV"
+uid="uid://bcglqtcict83m"
+path="res://.godot/imported/fastinvader2.wav-885302bad198f61ec8c138ed7269a382.sample"
 
 [deps]
 
 source_file="res://Sounds/fastinvader2.wav"
-dest_files=[ "res://.import/fastinvader2.wav-885302bad198f61ec8c138ed7269a382.sample" ]
+dest_files=["res://.godot/imported/fastinvader2.wav-885302bad198f61ec8c138ed7269a382.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=true
 edit/normalize=true
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0
